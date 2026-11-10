@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanket.github.io/jaw-coach/sitemap.xml
